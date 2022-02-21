@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "browserify": "^16.5.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.15"
   }
 }
