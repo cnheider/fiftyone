@@ -3,7 +3,7 @@ boto3==1.17.36
 Deprecated==1.2.11
 eventlet==0.31.0
 Flask==1.1.2
-httpx==0.7.7
+httpx==0.23.0
 Jinja2==2.11.3
 kaleido==0.2.1
 matplotlib==3.2.1
